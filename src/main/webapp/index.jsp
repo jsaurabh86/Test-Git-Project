@@ -7,6 +7,7 @@
 
 <h2>Adding code in branch1</h2>
 
+<span>Notes: Completing release 2</span>
 
 
 </body>
